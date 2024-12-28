@@ -1,16 +1,16 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+name: Graham Felton
+title: Graham Felton | Computational Designer
+description: Designer, coder, and thinker at Carnegie Mellon University
+url: https://1gfelton.github.io/
 baseurl: ''
-email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+email: gtf@andrew.cmu.com
+cover: https://gfelton.github.io/img/og.png
+logo: https://gfelton.github.io/img/emojis/technologist.png
+resume: https://gfelton.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:gtf@andrew.cmu.com
   - title: twitter
     url: https://twitter.com/bchiang7
   - title: instagram
@@ -18,9 +18,9 @@ social:
   - title: codepen
     url: http://codepen.io/bchiang7
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/1gfelton
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/graham-felton-a59891271/
 
 # Build settings
 markdown: kramdown

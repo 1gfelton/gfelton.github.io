@@ -2,21 +2,19 @@
 name: Graham Felton
 title: Graham Felton | Computational Designer
 description: Designer, coder, and thinker at Carnegie-Mellon University
-url: https://gfelton.github.io/
+url: https://1gfelton.github.io/
 baseurl: ''
 email: gtf@andrew.cmu.com
-cover: https://gfelton.github.io/img/og.png
-logo: https://gfelton.github.io/img/emojis/technologist.png
-resume: https://gfelton.github.io/resume.pdf
+cover: https://1gfelton.github.io/img/og.png
+logo: https://1gfelton.github.io/img/emojis/technologist.png
+resume: https://1gfelton.github.io/resume.pdf
 social:
   - title: email
     url: mailto:gtf@andrew.cmu.com
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: https://twitter.com/
   - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
+    url: https://www.instagram.com/graham_.felton/
   - title: github
     url: https://github.com/1gfelton
   - title: linkedin

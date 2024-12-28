@@ -10,13 +10,17 @@ frameworks:
   - item: Pandas
   - item: Gensim
 
-3d:
+tools:
   - item: Rhino 3D
   - item: Grasshopper
   - item: 3DS Max
   - item: nTop
   - item: ZBrush
   - item: Cinema 4d
+  - item: Revit
+  - item: Procore
+  - item: Bluebeam Revu
+  - item: AutoCAD
 
 design:
   - item: Illustrator

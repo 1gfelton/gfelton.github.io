@@ -1,13 +1,13 @@
 - name: Dungeon Craw112r
-  url: https://github.com/bchiang7/Surf-Videos
-  code: https://github.com/bchiang7/Surf-Videos
+  url: https://github.com/1gfelton/dungeon-crawler
+  code: https://github.com/1gfelton/dungeon-crawler
   description: 2.5D Dungeon crawler-esque game built using only 2D drawing elements using Python, without the use of any external libraries.
   used:
     - thing: Python
     
 - name: Inherent Bias
-  url: https://bchiang7.github.io/halcyon-site/
-  code: https://github.com/bchiang7/halcyon-site
+  url: https://github.com/1gfelton/inherent-bias
+  code: https://github.com/1gfelton/inherent-bias
   description: An exploration in machine reading comprehension, specifically targeted at bias in natural language processing. Trained a<a class="underline-link" href="https://radimrehurek.com/gensim/">Gensim NLP</a> model on a<a class="underline-link" href="https://github.com/rpryzant/neutralizing-bias">dataset</a> of biased writing examples which was used to interface with a FireFox extension which would grab terms from the webpage and color them more red the greater the cosine similarity was between the current term and a selection of bias terms.
   used:
     - thing: Python

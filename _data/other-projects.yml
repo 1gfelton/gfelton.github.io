@@ -8,7 +8,7 @@
 - name: Inherent Bias
   url: https://github.com/1gfelton/inherent-bias
   code: https://github.com/1gfelton/inherent-bias
-  description: An exploration in machine reading comprehension, specifically targeted at bias in natural language processing. Trained a<a class="underline-link" href="https://radimrehurek.com/gensim/">Gensim NLP</a> model on a<a class="underline-link" href="https://github.com/rpryzant/neutralizing-bias">dataset</a> of biased writing examples which was used to interface with a FireFox extension which would grab terms from the webpage and color them more red the greater the cosine similarity was between the current term and a selection of bias terms.
+  description: An exploration in machine reading comprehension, specifically targeted at bias in natural language processing. Trained a <a class="underline-link" href="https://radimrehurek.com/gensim/">Gensim NLP</a> model on a <a class="underline-link" href="https://github.com/rpryzant/neutralizing-bias">dataset</a> of biased writing examples. This model is then accessed by a FireFox extension which would compare terms from the current webpage to a selection of bias terms (looking at the cosine similarity). The more similar, the more red the text would become.
   used:
     - thing: Python
     - thing: Gensim
